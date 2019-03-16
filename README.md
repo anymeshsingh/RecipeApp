@@ -1,6 +1,6 @@
 # Recipe App
 
-Basic cross-platform app build in Ionic using capacitor for showing food recipies.
+Simple cross-platform app build in Ionic using capacitor for showing food recipies.
 
 ### Available Scripts
 
@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 To install all the dependencies
 
-#### `ng build`
+### `ng build`
 
 To create a production build in the www directory.
 
