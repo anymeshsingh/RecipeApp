@@ -1,5 +1,7 @@
 {
   "name": "CCProject",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }

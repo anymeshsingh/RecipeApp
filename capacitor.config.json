@@ -1,0 +1,6 @@
+{
+  "appId": "io.anymeshsingh.RecipeApp",
+  "appName": "RecipeApp",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
